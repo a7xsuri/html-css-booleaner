@@ -37,3 +37,12 @@ a{
 figure {
     margin-left: 5px;
 }
+
+span {
+    background-color: yellow;
+}
+
+.testo {
+    margin-left: 5px;
+    text-align: justify;
+}
